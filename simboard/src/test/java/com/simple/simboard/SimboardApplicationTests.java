@@ -1,13 +1,13 @@
-package com.simple.simplepjcboard;
+package com.simple.simboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimplePjcboardApplicationTests {
+class SimboardApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
