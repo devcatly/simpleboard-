@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0535fa55-5146-474d-b529-9e2f520a864e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/src/main/java/com/simple/simplepjcboard/SimplePjcboardApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-pjcboard/src/test/java/com/simple/simplepjcboard/SimplePjcboardApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +39,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2eUN2IrAH3X9O0mJi2Gn1yudkRq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,8 +52,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/admin/Documents/simpleboard-",
+    "last_opened_file_path": "C:/pratice/simpleboard-/simboard",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711954987720</updated>
       <workItem from="1711954988922" duration="502000" />
+      <workItem from="1713164503530" duration="720000" />
     </task>
     <servers />
   </component>
